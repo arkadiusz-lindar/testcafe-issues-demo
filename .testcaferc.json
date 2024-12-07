@@ -1,0 +1,7 @@
+{
+    "selectorTimeout": 10000,
+    "assertionTimeout": 10000,
+    "skipUncaughtErrors": true,
+    "skipJsErrors": true,
+    "disableNativeAutomation": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "testcafe-mwe",
+  "version": "1.0.0",
+  "description": "Minimal working example for TestCafe issue",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome ./test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "testcafe": "3.7.0"
+  }
+}
